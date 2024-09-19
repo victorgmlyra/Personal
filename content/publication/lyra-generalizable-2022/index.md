@@ -20,4 +20,8 @@ doi: 10.5220/0010842800003124
 links:
 - name: URL
   url: https://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0010842800003124
+
+
+featured: true
+
 ---

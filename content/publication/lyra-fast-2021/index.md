@@ -33,4 +33,7 @@ abstract: With the growth of access to faster computers and more powerful camera
 links:
 - name: URL
   url: https://sol.sbc.org.br/journals/index.php/jis/article/view/2065
+
+featured: true
+
 ---
