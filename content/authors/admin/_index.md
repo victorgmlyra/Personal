@@ -144,7 +144,7 @@ skills:
         icon: code-bracket
       - name: Robotics
         percent: 80
-        icon: robot
+        icon: custom/robot
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
