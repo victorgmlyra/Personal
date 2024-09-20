@@ -141,10 +141,10 @@ skills:
       - name: AI Frameworks (Pytorch/Tansorflow)
         description: ''
         percent: 80
-        icon: fas/fa-brain
+        icon: code-bracket
       - name: Robotics
         percent: 80
-        icon: circle-stack
+        icon: robot
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
