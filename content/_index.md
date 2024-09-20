@@ -42,6 +42,27 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
+
+  # - block: collection
+  #   content:
+  #     title: All Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: true
+  
   - block: collection
     id: papers
     content:
@@ -53,16 +74,20 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
-      title: All Publications
-      text: ""
+      title: Selected Projects
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - publication
-        exclude_featured: false
+          - project
     design:
-      view: citation
+      view: article-grid
+      fill_image: false
+      columns: 3
+
+
   # - block: collection
   #   id: talks
   #   content:
@@ -102,6 +127,8 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
+
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

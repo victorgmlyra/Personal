@@ -26,14 +26,23 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      The Deep Learning Specialization is designed to prepare learners to participate in the development of cutting-edge AI technology, and to understand the capability, the , and the consequences of the rise of deep learning. Through five interconnected courses, learners develop a profound knowledge of the hottest AI algorithms, mastering deep learning from its foundations (neural networks) to its industry applications (Computer Vision, Natural Language Processing, Speech Recognition, etc.).
+      Focused on developing a deep understanding of the latest AI algorithms, this course covered foundational to advanced topics in deep learning. The program emphasized applications in Computer Vision, Natural Language Processing, and Speech Recognition, preparing learners for cutting-edge AI development. Key areas of expertise gained include:
+
+      - Neural networks and deep learning foundations
+      - State-of-the-art AI algorithms for various domains
+      - Practical applications in Computer Vision, NLP, and Speech Recognition
+
   - title: Self-Driving Cars
     url: https://www.coursera.org/specializations/self-driving-cars
     date: '2020-06-26'
     awarder: Coursera
     icon: coursera
     summary: |
-      This Specialization gives you a comprehensive understanding of state-of-the-art engineering practices used in the self-driving car industry. By interacting with real data sets from an autonomous vehicle (AV), you’ll implement methods for static and dynamic object detection, localization and mapping, behaviour and maneuver planning, and vehicle control ― all through hands-on projects using the open source simulator CARLA. You’ll learn from a highly realistic driving environment that features 3D pedestrian modeling and environmental conditions. When you complete the Specialization successfully, you’ll be able to build your own selfdriving software stack and be ready to apply for jobs in the autonomous vehicle industry.
+      This course provided in-depth knowledge of the technologies driving the self-driving car industry. Through hands-on projects with real autonomous vehicle data and a realistic driving environment simulator (CARLA), Key areas of expertise gained include:
+
+      - Static and dynamic object detection
+      - Localization, mapping, and vehicle control
+      - Behavior and maneuver planning in autonomous systems
 
 ---
 
