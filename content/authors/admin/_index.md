@@ -141,7 +141,7 @@ skills:
       - name: AI Frameworks (Pytorch/Tansorflow)
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: fas/fa-brain
       - name: Robotics
         percent: 80
         icon: circle-stack
@@ -152,11 +152,11 @@ skills:
       - name: PLaying Music
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: musical-note
       - name: Dancing
         description: ''
         percent: 100
-        icon: cat
+        icon: person-simple-walk
       - name: Photography
         description: ''
         percent: 60
