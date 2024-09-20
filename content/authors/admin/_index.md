@@ -56,21 +56,29 @@ education:
     date_start: 2022-02-01
     date_end: 2024-08-12
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Learned and developed skills to design and implement intelligent systems like drones, robots, and self-driving vehicles. Worked with robotics, AI, machine learning, and control systems, focusing on system optimization and decision-making algorithms for real-world autonomous applications.
+
+      Thesis on Semantic Reconstruction of Aircraft from Incomplete LiDAR Data Supervised by [Prof Lazaros Nalpantidis](https://orbit.dtu.dk/en/persons/lazaros-nalpantidis).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'publication/thesis/'
   - area: BSc Electronics Engineering
     institution: Universidade Federal de Pernambuco (UFPE)
     date_start: 2016-02-01
     date_end: 2021-09-22
     summary: |
-      GPA: 3.8/4.0
+      learned and developed the foundation to design, analyze, and implement electronic systems and devices. Gained skills in circuits, embedded systems, telecommunications, and control systems, with a focus on solving real-world engineering challenges and developing innovative electronic solutions.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on 3D Pedestrian tracking from Multiple Views Supervised by [Prof João Marcelo Teixeira](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=1055817) and [Prof João Paulo Lima](https://ppgia.ufrpe.br/en/user/114).
+    button:
+      text: 'Read Thesis'
+      url: 'publication/lyra-generalizable-2022/'
+
+# Courses included:
+# - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Student Developer
     company_name: IPU
