@@ -87,10 +87,17 @@ work:
     date_start: 2022-10-01
     date_end: '2024-06-28'
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed a Deep Learning solution for completing and segmenting point clouds of aircrafts from a Lidar scan to be deployed in an autonomous deicer truck as a part of my Master’s thesis. Developed using Python and Pytorch.
+      - Developed a UI for testing the functionalities of an autonomous deicer in simulation. Developed using C++ and Qt.
+      - Developed an application for doing energy mapping in industrial processes to reduce the processing time for energy mapping and improve efficiency. Developed using Python and QT.
+  - position: Teaching Assistant - Perception for Autonomous Systems 
+    company_name: DTU
+    company_url: 'https://www.dtu.dk/'
+    company_logo: ''
+    date_start: '2023-02-01'
+    date_end: '2023-05-28'
+    summary: |2-
+      - Supported the delivery of a course on autonomous systems' perception. Assisted students in understanding sensory input transformation, 3D reconstruction, and image feature extraction. Facilitated hands-on exercises, including 3D point cloud processing and visual odometry. Clarified complex mathematical concepts and helped students bridge theory to real-world applications.
   - position: System Software Developer
     company_name: PerPlant
     company_url: 'https://www.perplant.ai/'
@@ -98,45 +105,45 @@ work:
     date_start: 2022-06-01
     date_end: 2022-09-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Created software leveraging image processing with NIR cameras and sensor integration (GPS, IMU) to assess crop health, generating detailed NDVI maps. Developed using C++ and MQTT.
+      - Worked closely with cross-functional teams to deploy solutions for agricultural analysis and precision farming.
   - position: Research Assistant
-    company_name: VoxarLabs
+    company_name: Voxar Labs
     company_url: 'https://voxarlabs.cin.ufpe.br/'
     company_logo: ''
     date_start: 2019-02-01
     date_end: 2021-09-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed photogrammetry solutions leveraging geometric methods and Deep Learning models, leading to the publication of 2 research papers. Developed with Python, C++, and Tensorflow.
+      - Developed a 3D pedestrian tracking system using multiple cameras, using machine learning for person recognition and tracking. Developed using Python and Pytorch.
+  - position: System Developer
+    company_name: Maracatronics
+    company_url: 'https://www.instagram.com/maracatronics/'
+    company_logo: ''
+    date_start: 2018-02-01
+    date_end: 2019-03-30
+    summary: |
+      - Developed the control system and communication for autonomous and nonholonomic robots to play soccer at the Small Size League (RoboCup). Developed using C++ and Java.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: C++
+      - name: Python, C++
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: AI Frameworks (Pytorch/Tansorflow)
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: code-bracket
       - name: Computer Vision
         description: ''
-        percent: 40
+        percent: 90
+        icon: circle-stack
+      - name: AI Frameworks (Pytorch/Tansorflow)
+        description: ''
+        percent: 80
         icon: circle-stack
       - name: Robotics
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -144,7 +151,7 @@ skills:
     items:
       - name: PLaying Music
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
       - name: Dancing
         description: ''
@@ -152,7 +159,7 @@ skills:
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera
 
 languages:
