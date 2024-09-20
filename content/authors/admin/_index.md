@@ -61,7 +61,7 @@ education:
       Thesis on Semantic Reconstruction of Aircraft from Incomplete LiDAR Data Supervised by [Prof Lazaros Nalpantidis](https://orbit.dtu.dk/en/persons/lazaros-nalpantidis).
     button:
       text: 'Read Thesis'
-      url: 'publication/thesis/'
+      url: '/publication/thesis/'
   - area: BSc Electronics Engineering
     institution: Universidade Federal de Pernambuco (UFPE)
     date_start: 2016-02-01
@@ -72,7 +72,7 @@ education:
       Thesis on 3D Pedestrian tracking from Multiple Views Supervised by [Prof João Marcelo Teixeira](https://sigaa.ufpe.br/sigaa/public/docente/portal.jsf?siape=1055817) and [Prof João Paulo Lima](https://ppgia.ufrpe.br/en/user/114).
     button:
       text: 'Read Thesis'
-      url: 'publication/lyra-generalizable-2022/'
+      url: '/publication/lyra-generalizable-2022/'
 
 # Courses included:
 # - lorem ipsum dolor sit amet, consectetur adipiscing elit
