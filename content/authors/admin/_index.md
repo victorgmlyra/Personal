@@ -138,13 +138,13 @@ skills:
         description: ''
         percent: 90
         icon: eye
-      - name: AI Frameworks (Pytorch/Tansorflow)
+      - name: AI Frameworks (Pytorch/Tensorflow)
         description: ''
         percent: 80
         icon: code-bracket
       - name: Robotics
         percent: 80
-        icon: custom/robot-solid
+        icon: cpu-chip
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
