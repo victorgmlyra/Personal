@@ -27,7 +27,7 @@ sections:
   - block: resume-awards
     content:
       title: Courses
-      username: admin2
+      username: courses
   - block: resume-awards
     content:
       title: Awards
