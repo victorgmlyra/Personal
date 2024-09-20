@@ -137,7 +137,7 @@ skills:
       - name: Computer Vision
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: eye
       - name: AI Frameworks (Pytorch/Tansorflow)
         description: ''
         percent: 80
