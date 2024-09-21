@@ -1,6 +1,6 @@
 ---
 title: Visual Time Clock
-date: 2023-10-26
+date: 2019-11-15
 external_link: https://github.com/victorgmlyra/Projeto-Senfio
 tags:
   - OpenCV
