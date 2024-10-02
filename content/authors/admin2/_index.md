@@ -26,7 +26,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      Focused on developing a deep understanding of the latest AI algorithms, this course covered foundational to advanced topics in deep learning. The program emphasized applications in Computer Vision, Natural Language Processing, and Speech Recognition, preparing learners for cutting-edge AI development. Key areas of expertise gained include:
+      Focused on developing a deep understanding of the latest AI algorithms, this specialization covered foundational to advanced topics in deep learning. The program emphasized applications in Computer Vision, Natural Language Processing, and Speech Recognition, preparing learners for cutting-edge AI development. Key areas of expertise gained include:
 
       - Neural networks and deep learning foundations
       - State-of-the-art AI algorithms for various domains
@@ -38,11 +38,24 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      This course provided in-depth knowledge of the technologies driving the self-driving car industry. Through hands-on projects with real autonomous vehicle data and a realistic driving environment simulator (CARLA), Key areas of expertise gained include:
+      This specialization provided in-depth knowledge of the technologies driving the self-driving car industry. Through hands-on projects with real autonomous vehicle data and a realistic driving environment simulator (CARLA), Key areas of expertise gained include:
 
       - Static and dynamic object detection
       - Localization, mapping, and vehicle control
       - Behavior and maneuver planning in autonomous systems
+    
+  - title: Machine Learning in Production
+    url: https://www.coursera.org/learn/introduction-to-machine-learning-in-production
+    date: '2024-10-02'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      This course combines machine learning concepts with software engineering and DevOps principles to build and maintain ML systems in production environments. The course focuses on designing, deploying, and managing robust machine learning applications that handle dynamic data and run continuously at optimal performance. Key skills acquired include:
+
+      - Designing end-to-end ML production systems
+      - Implementing data pipelines and feature engineering
+      - Managing model deployment, monitoring, and concept drift
+      - Applying best practices for maintaining production-grade AI systems
 
 ---
 
